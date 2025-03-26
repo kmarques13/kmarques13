@@ -6,7 +6,7 @@
 
 ## About me
 
-✨ I am 20 years old, I am a programming student, passionate about technology, I have a degree in Systems Analysis and Development from UNINOVE College and I am currently in the first semester of Information Systems at UNIP College. ✨
+✨ I am 21 years old, I am a programming student, passionate about technology, I have a degree in Systems Analysis and Development from UNINOVE College and I am currently in the first semester of Information Systems at UNINOVE College. ✨
 
 ## Technological Skills
 
